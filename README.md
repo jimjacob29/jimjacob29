@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jimjacob29
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on frontend developmenrt
+- 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me jimjacob29@gmail.com
 
 <!---
